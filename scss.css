@@ -9,8 +9,8 @@ body {
   text-align: center;
 }
 
-#container {
-  margin: 0px;
+.container {
+  margin: 0rem;
   border: 0rem;
 }
 
@@ -18,30 +18,31 @@ body {
   background-image: url(/asset/image-header.jpg);
   background-position: absolute;
   background-size: cover;
-  height: 29.889rem;
-  height: 33.625rem;
+  height: 29.333rem;
+  background-position: left calc(50% - 29.85375rem - 0.1787rem) bottom -33.555rem;
 }
 
-.logo {
-  height: 1.333rem;
-  width: 7.727rem;
-  left: 1.5rem;
-  top: 2rem;
+#logo {
+  height: 24WX;
+  width: 123.6363601685px;
+  left: 24;
+  top: 32px;
   border-radius: 0px;
   color: black;
   position: absolute;
+  left: 6.4%;
+  right: 60.63%;
+  top: 5.95%;
+  bottom: 89.59%;
 }
 
 /*.wrap {
 
-}*/
+}
+*/
 /*.navabar {
 
 }*/
-.ul {
-  list-style: none;
-}
-
 /*.a {
 
 }*/
@@ -61,4 +62,4 @@ body {
   letter-spacing: 6.25px;
   text-transform: uppercase;
   color: #FFFFFF;
-}/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=scss.css.map */

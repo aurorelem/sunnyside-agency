@@ -1,0 +1,76 @@
+
+* {
+    margin: 0rem;
+    border: 0rem;   
+}
+
+body {
+    font-family: Fraunces, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;    
+}
+
+#container {
+    margin: 0px;
+    border: 0rem; 
+}
+
+.box1 {
+    background-image: url(/asset/image-header.jpg);
+    background-position: absolute;
+    background-size: cover;
+    height: 29.889rem;
+    height: 33.625rem;
+}
+
+.logo {
+    height: 1.333rem;
+    width: 7.727rem;
+    left: 1.5rem;
+    top: 2rem;
+    border-radius: 0px;
+    color: black;
+    position: absolute;
+}
+
+/*.wrap {
+
+}*/
+
+
+/*.navabar {
+
+}*/
+
+.ul {
+    list-style: none;
+}
+
+/*.a {
+
+}*/
+
+#title1 {
+    position: absolute;
+    height: 98px;
+    width: 327px;
+    left: 6.4%;
+    right: 6.4%;
+    top: calc(50% - 98px/2 - 76px);
+
+    font-family: 'Fraunces 9pt Soft';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    letter-spacing: 6.25px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+
+
+
